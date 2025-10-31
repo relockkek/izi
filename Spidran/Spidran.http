@@ -1,0 +1,6 @@
+@Spidran_HostAddress = http://localhost:5222
+
+GET {{Spidran_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
